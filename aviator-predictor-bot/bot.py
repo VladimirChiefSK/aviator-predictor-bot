@@ -6,7 +6,7 @@ from tensorflow.keras.models import load_model
 import joblib
 
 # CONFIG
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # Replace with your token
+TOKEN = "8412877094:AAEYgE0r6uvt2OVJWAJkhOyNoEF9dy2bOQU"  # Replace with your token
 DATA_FILE = "data/aviator_data.csv"
 MODEL_FILE = "model/aviator_model.h5"
 SCALER_FILE = "model/scaler.pkl"
