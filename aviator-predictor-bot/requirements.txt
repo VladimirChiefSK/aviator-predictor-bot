@@ -1,0 +1,7 @@
+selenium
+pandas
+numpy
+tensorflow
+scikit-learn
+python-telegram-bot==20.3
+joblib
